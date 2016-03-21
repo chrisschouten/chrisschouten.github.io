@@ -1,2 +1,6 @@
-#family {width: 10em;
-height: 10em;}
+#family {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
