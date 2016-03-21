@@ -18,3 +18,11 @@ footer {
 	font-style: italic;
 	text-align: center;
 }
+
+#weekend {
+	border: 3px solid black;
+	padding: 12px;
+	background: url(http://www.kemecer.com/i/tropical-beach-pictures-hammock-wallpaper-hd.jpg);
+	background-repeat: no-repeat;
+	background-origin: content-box;
+}
