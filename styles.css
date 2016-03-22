@@ -32,3 +32,10 @@ a:visited {
 a:active {
 	color: green;
 	}
+
+	@media screen and (max-width: 560px) {
+	  body {
+		width: auto;
+		float: none;
+	   }
+	}    	
