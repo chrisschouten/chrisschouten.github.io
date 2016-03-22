@@ -21,3 +21,14 @@ footer {
 
 #weekend {background-image: url(../../hammock-beach-holiday.jpg);
 }
+
+a:link {
+	color: red;
+}
+a:visited {
+	color: blue;
+}
+
+a:active {
+	color: green;
+	}
